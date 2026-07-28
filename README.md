@@ -45,6 +45,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/khushish2303/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/khushish2303/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushish2303/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -63,5 +64,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/khushish2303/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
