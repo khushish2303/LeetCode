@@ -45,6 +45,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/khushish2303/LeetCode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushish2303/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Prefix Sum
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushish2303/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
