@@ -34,6 +34,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/khushish2303/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/khushish2303/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Binary Search
 |  |
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/khushish2303/LeetCode/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/khushish2303/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
