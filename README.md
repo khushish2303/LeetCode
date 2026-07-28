@@ -25,6 +25,7 @@
 | [0007-reverse-integer](https://github.com/khushish2303/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khushish2303/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/khushish2303/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/khushish2303/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/khushish2303/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/khushish2303/LeetCode/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -49,6 +50,7 @@
 | [0035-search-insert-position](https://github.com/khushish2303/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/khushish2303/LeetCode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/khushish2303/LeetCode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/khushish2303/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushish2303/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
