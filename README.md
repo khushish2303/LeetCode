@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushish2303/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khushish2303/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +20,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
