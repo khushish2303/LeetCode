@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/khushish2303/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushish2303/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/khushish2303/LeetCode/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushish2303/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/khushish2303/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/khushish2303/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/khushish2303/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
