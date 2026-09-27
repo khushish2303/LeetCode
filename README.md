@@ -71,10 +71,15 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushish2303/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/khushish2303/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushish2303/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
