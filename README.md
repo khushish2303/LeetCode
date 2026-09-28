@@ -71,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/khushish2303/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushish2303/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Interactive
@@ -81,5 +82,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/khushish2303/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
