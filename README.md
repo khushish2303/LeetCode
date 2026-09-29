@@ -34,6 +34,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushish2303/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/khushish2303/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -73,6 +74,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushish2303/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushish2303/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushish2303/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Interactive
 |  |
@@ -84,4 +86,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/khushish2303/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/khushish2303/LeetCode/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/khushish2303/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
