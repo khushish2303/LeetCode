@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/khushish2303/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/khushish2303/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/khushish2303/LeetCode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushish2303/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khushish2303/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/khushish2303/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -35,6 +36,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/khushish2303/LeetCode/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushish2303/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/khushish2303/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/khushish2303/LeetCode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/khushish2303/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
