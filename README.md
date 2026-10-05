@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/khushish2303/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushish2303/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/khushish2303/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/khushish2303/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/khushish2303/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/khushish2303/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/khushish2303/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
