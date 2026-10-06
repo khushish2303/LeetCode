@@ -17,6 +17,7 @@
 | [0704-binary-search](https://github.com/khushish2303/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/khushish2303/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/khushish2303/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushish2303/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/khushish2303/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/khushish2303/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/khushish2303/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/khushish2303/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/khushish2303/LeetCode/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushish2303/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/khushish2303/LeetCode/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushish2303/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 | [0054-spiral-matrix](https://github.com/khushish2303/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/khushish2303/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/khushish2303/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushish2303/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
